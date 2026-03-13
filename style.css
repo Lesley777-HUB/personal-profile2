@@ -1,19 +1,16 @@
 body{
+background-color:#f8f9fa;
 font-family: Arial, sans-serif;
 }
 
 h2{
-color:#007bff;
+margin-bottom:20px;
 }
 
-ul{
-list-style:none;
-padding:0;
+.navbar-brand{
+font-weight:bold;
 }
 
-ul li{
-background:#f8f9fa;
-padding:10px;
-margin:5px 0;
-border-left:5px solid #007bff;
+img{
+border:4px solid #343a40;
 }
